@@ -1,0 +1,16 @@
+variavel,descricao,tipo,subtipo
+survived,"Se o passageiro sobreviveu ou não (0 = não, 1 = sim)",Qualitativa,Nominal
+pclass,"Classe do bilhete do passageiro (1 = primeira classe, 2 = segunda classe, 3 = terceira classe)",Qualitativa,Ordinal
+sex,Sexo do passageiro,Qualitativa,Nominal
+age,Idade do passageiro,Quantitativa,Contínua**
+sibsp,Número de irmãos/cônjuges a bordo,Quantitativa,Discreta
+parch,Número de pais/filhos a bordo,Quantitativa,Discreta
+fare,Tarifa paga pelo passageiro,Quantitativa,Contínua
+embarked,"Porto de embarque (C = Cherbourg, Q = Queenstown, S = Southampton)",Qualitativa,Nominal
+class,"Classe do bilhete do passageiro como texto (First, Second, Third)",Qualitativa,Ordinal
+who,"Categoria do passageiro (man, woman, child)",Qualitativa,Nominal
+adult_male,Indica se o passageiro é um adulto do sexo masculino,Qualitativa,Nominal
+deck,Letra correspondente ao deck da cabine,Qualitativa,Nominal
+embark_town,Nome da cidade de embarque,Qualitativa,Nominal
+alive,"Estado de sobrevivência como texto (yes, no)",Qualitativa,Nominal
+alone,Se o passageiro estava viajando sozinho ou não,Qualitativa,Nominal
