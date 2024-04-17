@@ -1,0 +1,8 @@
+variavel,descricao,tipo,subtipo
+total_bill,Total da conta em dólares,Quantitativa,Contínua
+tip,Valor da gorjeta em dólares,Quantitativa,Contínua
+sex,Sexo do pagante da conta,Qualitativa,Nominal
+smoker,Indica se o grupo incluía fumantes,Qualitativa,Nominal
+day,Dia da semana,Qualitativa,Ordinal
+time,Refeição (Almoço ou Jantar),Qualitativa,Nominal
+size,Tamanho do grupo,Quantitativa,Discreta
